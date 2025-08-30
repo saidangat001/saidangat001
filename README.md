@@ -14,26 +14,30 @@ I'm a passionate **Java Developer** with a strong grasp on **Data Structures and
 
 ---
 
-## 🏆 Skills
+##  Languages & Tools
 
-- **Languages:** Java, JavaScript, SQL
-- **Core:** OOP, DSA, Algorithms, System Design
-- **Web Tech:** Spring Boot, REST APIs, MVC, Servlets, JSP
-- **Tools:** Git & GitHub, Maven, IntelliJ IDEA, MySQL, Docker
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img alt="DSA" src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ---
+---
 
-## 📚 Notable Projects
+##  GitHub Stats & Streak
 
-### [DSA](https://github.com/saidangat001/DSA)
-All my solved data structure and algorithm problems, with explanations and code.
-
-### [E-kart-website](https://github.com/saidangat001/E-kart-website)
-A full-featured e-commerce website inspired by Amazon, developed as a college project.  
-**Tech Stack:** Java, Spring Boot, HTML, CSS, JavaScript
+<div align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saidangat001&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidangat001&layout=compact&theme=tokyonight&hide_border=true" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=saidangat001&theme=tokyonight&hide_border=true" />
+</div>
 
 ### [More Repositories](https://github.com/saidangat001?tab=repositories)
-Check out more projects in my repositories—including smaller tools, experiments, and guides.
+Check out projects in my repositories—including smaller tools, experiments, and guides.
 
 ---
 
